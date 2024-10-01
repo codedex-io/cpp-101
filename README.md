@@ -11,17 +11,15 @@ Welcome to the C++ GitHub repo! We are super excited to have you. Here, you will
 
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_earth.png" height="20" style="vertical-align: middle"> Hello World
 
-- [`hello_world.cpp`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/02_hello_world.py)
-- [`pattern.cpp`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/03_pattern.py)
-- [`initials.cpp`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/04_initials.py)
-- [`letter.cpp`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/05_letter.py)
+- [`hello_world.cpp`](https://github.com/codedex-io/cpp-101/blob/main/1-hello-world/01_hello_world.cpp)
+- [`howdy.cpp`](https://github.com/codedex-io/cpp-101/blob/main/1-hello-world/02_howdy.cpp)
+- [`goodbye.cpp`](https://github.com/codedex-io/cpp-101/blob/main/1-hello-world/03_goodbye.cpp)
+- [`ouija.cpp`](https://github.com/codedex-io/cpp-101/blob/main/1-hello-world/04_ouija.cpp)
+- `sign_bunny.cpp`
 
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_equal.png" height="21" style="vertical-align: middle"> Variables
 
-- [`temperature.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/07_temperature.py)
-- [`bmi.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/08_bmi.py)
-- [`quadratic.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/09_quadratic.py)
-- [`currency.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/10_currency.py)
+- TBA
 
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_fork.png" height="20"> Control Flow
 
