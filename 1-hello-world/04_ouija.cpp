@@ -4,12 +4,12 @@
 #include <iostream> 
 
 int main() {
-  std::cout << "-----------------------------------";
-  std::cout << "|          x YES   NO  x          |";
-  std::cout << "|                                 |";
-  std::cout << "|         ABCDEFGHIJKLM           |";
-  std::cout << "|         NOPQRSTUVWXYZ           |";
-  std::cout << "|                                 |";
-  std::cout << "|           1234567890            |";
-  std::cout << "-----------------------------------";
+  std::cout << "-----------------------------------\n";
+  std::cout << "|          x YES   NO  x          |\n";
+  std::cout << "|                                 |\n";
+  std::cout << "|         ABCDEFGHIJKLM           |\n";
+  std::cout << "|         NOPQRSTUVWXYZ           |\n";
+  std::cout << "|                                 |\n";
+  std::cout << "|           1234567890            |\n";
+  std::cout << "-----------------------------------\n";
 }
