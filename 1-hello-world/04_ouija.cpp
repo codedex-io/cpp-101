@@ -1,4 +1,4 @@
-// Ouija Board 💀
+// Ouija Board 👻
 // Codédex
 
 #include <iostream> 
