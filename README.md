@@ -1,13 +1,13 @@
 <div align="center">
   <br>
-  <h1>C++ ⚡️⚡</h1>
+  <h1>C++ ⚡</h1>
   <strong>GitHub repo with beginner-friendly problems in C++</strong>
 </div>
 <br>
 
 Welcome to the C++ GitHub repo! We are super excited to have you. Here, you will find all the solutions to the Codédex exercises. Feel free to make pull requests to add your own twists on the exercises!
 
-### Website: www.codedex.io/cpp
+### Website: https://www.codedex.io/cpp
 
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_earth.png" height="20" style="vertical-align: middle"> Hello World
 
@@ -15,7 +15,7 @@ Welcome to the C++ GitHub repo! We are super excited to have you. Here, you will
 - [`howdy.cpp`](https://github.com/codedex-io/cpp-101/blob/main/1-hello-world/02_howdy.cpp)
 - [`goodbye.cpp`](https://github.com/codedex-io/cpp-101/blob/main/1-hello-world/03_goodbye.cpp)
 - [`ouija.cpp`](https://github.com/codedex-io/cpp-101/blob/main/1-hello-world/04_ouija.cpp)
-- `sign_bunny.cpp`
+- [`sign_bunny.cpp`](https://github.com/codedex-io/cpp-101/blob/main/1-hello-world/05_sign_bunny.cpp)
 
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_equal.png" height="21" style="vertical-align: middle"> Variables
 
