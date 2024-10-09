@@ -19,7 +19,14 @@ Welcome to the C++ GitHub repo! We are super excited to have you. Here, you will
 
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_equal.png" height="21" style="vertical-align: middle"> Variables
 
-- TBA
+<!-- link not applied yet ^-^ -->
+
+- [`declearation.cpp`]()
+- [`ipo.cpp`]()
+- [`temperature.cpp`]()
+- [`knighthood.cpp`]()
+- [`mom.cpp`]()
+- [`cat_years.cpp`]()
 
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_fork.png" height="20"> Control Flow
 
