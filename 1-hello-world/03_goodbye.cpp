@@ -4,7 +4,7 @@
 #include <iostream> 
 
 int main() {
-  std::cout << "See ya later, alligator!"; 
-  std::cout << "さよなら";
-  std::cout << "Au revoir";
+  std::cout << "See ya later, alligator!\n"; 
+  std::cout << "さよなら\n";
+  std::cout << "Au revoir\n";
 }
