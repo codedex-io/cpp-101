@@ -1,4 +1,5 @@
-// Temperature in Brooklyn, NY 🌡️
+// Temperature 🌡️
+// Codédex
 
 #include <iostream>
 
@@ -7,5 +8,6 @@ int main() {
   double celsius;
 
   celsius = (fahrenheit - 32) / 1.8;
-  std::cout << "Temperature of Brooklyn, NY is " << celsius << " ℃ in Celsius.";
+
+  std::cout << "Temperature in Brooklyn, NY is " << celsius << " ℃ in Celsius.\n";
 }
