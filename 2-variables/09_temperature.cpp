@@ -9,5 +9,5 @@ int main() {
 
   celsius = (fahrenheit - 32) / 1.8;
 
-  std::cout << "Temperature in Brooklyn, NY is " << celsius << " ℃ in Celsius.\n";
+  std::cout << "Temperature in Brooklyn, NY is " << celsius << " ℃.\n";
 }
