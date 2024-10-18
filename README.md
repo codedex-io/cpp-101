@@ -21,7 +21,7 @@ Welcome to the C++ GitHub repo! We are super excited to have you. Here, you will
 
 <!-- link not applied yet ^-^ -->
 
-- [`declearation.cpp`]()
+- [`declaration_of_independence.cpp`]()
 - [`ipo.cpp`]()
 - [`temperature.cpp`]()
 - [`knighthood.cpp`]()
