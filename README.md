@@ -19,14 +19,12 @@ Welcome to the C++ GitHub repo! We are super excited to have you. Here, you will
 
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_equal.png" height="21" style="vertical-align: middle"> Variables
 
-<!-- link not applied yet ^-^ -->
-
-- [`declaration.cpp`]()
-- [`ipo.cpp`]()
-- [`temperature.cpp`]()
-- [`knighthood.cpp`]()
-- [`mom.cpp`]()
-- [`cat_years.cpp`]()
+- [`declaration.cpp`](https://github.com/codedex-io/cpp-101/blob/main/2-variables/07_declaration.cpp)
+- [`ipo.cpp`](https://github.com/codedex-io/cpp-101/blob/main/2-variables/08_ipo.cpp)
+- [`temperature.cpp`](https://github.com/codedex-io/cpp-101/blob/main/2-variables/09_temperature.cpp)
+- [`knighthood.cpp`](https://github.com/codedex-io/cpp-101/blob/main/2-variables/10_knighthood.cpp)
+- [`mom.cpp`](https://github.com/codedex-io/cpp-101/blob/main/2-variables/11_mom.cpp)
+- [`cat_years.cpp`](https://github.com/codedex-io/cpp-101/blob/main/2-variables/12_cat_years.cpp)
 
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_fork.png" height="20"> Control Flow
 
