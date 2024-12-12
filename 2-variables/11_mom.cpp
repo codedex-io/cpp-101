@@ -1,4 +1,4 @@
-// Month-over-month 📊
+// Month-over-Month 📊
 // Codédex
 
 #include <iostream>
