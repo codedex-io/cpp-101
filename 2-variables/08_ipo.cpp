@@ -4,7 +4,7 @@
 #include <iostream>
 
 int main() {
-  // Reddit IPO
+  // Reddit
   double reddit = 34.00;
 
   reddit = 48.95;
@@ -14,6 +14,5 @@ int main() {
   reddit = 59.24;
   reddit = 61.92;
 
-  std::cout << reddit; 
-  // Output: 61.92
+  std::cout << reddit;
 }
