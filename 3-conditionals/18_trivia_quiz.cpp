@@ -10,7 +10,6 @@ int main() {
 
   int answer1;
   int answer2;
-  std::string answer3;
 
   std::cout << "Q1) What is the name of the world's longest river? 💧\n\n";
   std::cout << "1) Missouri River\n";
@@ -33,12 +32,14 @@ int main() {
   std::cout << "3) 206\n";
   std::cout << "4) 10\n";
 
-  std::cin >> answer1;
+  std::cin >> answer2;
 
-  if (answer1 == 3) {
+  if (answer2 == 3) {
     std::cout << "You got it correct!\n";
   } 
   else {
     std::cout << "I'm sorry...\n";
   }
+
+  return 0;
 }
