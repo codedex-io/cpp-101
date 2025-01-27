@@ -14,5 +14,5 @@ int main() {
     std::cin << guess;
   }
 
-  std::cout << "You guess it correct!";
+  std::cout << "You guessed it correctly!";
 }
