@@ -1,4 +1,4 @@
-// Enter PIN 🏧
+// Enter  🏧
 // Codédex
 
 #include <iostream>
@@ -6,7 +6,7 @@
 int main() { 
   int pin = 0; 
 
-  std::cout << "BANK OF CODÉDEX\n\n"; 
+  std::cout << "BANK OF CODeDEX\n\n"; 
 
   std::cout << "Enter your PIN: "; 
   std::cin >> pin; 
