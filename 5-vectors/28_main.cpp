@@ -13,7 +13,8 @@ int main() {
   for (int i = 0; i < num.size(); i++) {
     if (num[i] % 2 == 0) {
       sum = sum + num[i];
-    } else {
+    }
+    else {
       product = product * num[i];
     }
   }
