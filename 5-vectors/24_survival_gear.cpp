@@ -5,8 +5,7 @@
 #include <vector>
 
 int main() { 
-  int pin = 0; 
-
+  
   std::vector<std::string> gears = {
     "⛺️ tent",
     "🏹 bows & arrows", 
@@ -19,4 +18,5 @@ int main() {
     "🧂 salt", 
     "🥘 pot"
   };
+  
 }
