@@ -1,4 +1,4 @@
-// Sum of Even / Product of Odd
+// Sum of Even / Product of Odd 😵‍💫
 // Codédex
 
 #include <iostream>
