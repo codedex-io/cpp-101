@@ -10,6 +10,6 @@ void ooo_message(std::string date) {
 }
 
 int main() {
-  ooo_message("tomorrow");
+  ooo_message("4/17");
   ooo_message("next week");
 }
