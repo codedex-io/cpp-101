@@ -1,22 +1,13 @@
-// Order Cart 🛒
+// Conversions ➡️
 // Codédex
 
 #include <iostream>
-#include <vector>
+
+int temp_conversion(int number) {
+  result = (number - 32) * 5/9;
+  return result;
+}
 
 int main() {
-  std::vector<std::string> cart = {
-    "🍕 Pepperoni pizza", 
-    "🥗 Garden salad", 
-    "🥤 Diet Coke"
-  };
-
-  cart.push_back("🥫Marinara sauce");
-  cart.pop_back();
-
-  std::cout << cart[0] << " ";
-  std::cout << cart[1] << " ";
-  std::cout << cart[2] << "\n";
-
-  std::cout << cart.size() << "\n";
+  temp_conversion(100);
 }
