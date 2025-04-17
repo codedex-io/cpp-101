@@ -1,20 +1,21 @@
-// Roadtrip Playlist 🚙💨
+// Tips Calculator 🤑
 // Codédex
 
 #include <iostream>
-#include <vector>
+
+void tips_menu() {
+  std::cout << "Leave a tip?\n";
+  std::cout << "1) 15%\n";
+  std::cout << "2) 20%\n";
+  std::cout << "3) 25%\n\n";
+}
+
+int tips_calculator(float total, int number) {
+  int result = total * number + total;
+  return result;
+}
 
 int main() {
-  std::vector<std::string> playlist = {
-    "Porches - rangerover", 
-    "Mount Eerie - You Swan, Go On", 
-    "Carolyn Polachek - Look at Me Now", 
-    "Pinegrove - Darkness", 
-    "LVL UP - Spirit Was", 
-    "Mitski - First Love / Late Spring"
-  };
-
-  for (int i = 0; i < playlist.size(); i++) {
-    std::cout << playlist[i] << "\n";
-  }
+  tips_menu();
+  std::cout << "$" << tips_calculator(46.59, 2) << "\n";
 }
