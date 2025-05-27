@@ -8,10 +8,10 @@ int main() {
     if (num % 3 == 0 and num % 5 == 0) {
       std::cout << "FizzBuzz\n";
     }
-    elif (num % 3 == 0) {
+    else if (num % 3 == 0) {
       std::cout << "Fizz\n";
     }
-    elif (num % 5 == 0) {
+    else if (num % 5 == 0) {
       std::cout << "Buzz\n";
     }
     else {
