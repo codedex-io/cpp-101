@@ -4,10 +4,10 @@
 #include <iostream>
 
 int temp_conversion(int number) {
-  result = (number - 32) * 5/9;
+  int result = (number - 32) * 5 / 9;
   return result;
 }
 
 int main() {
-  temp_conversion(100);
+  std::cout << temp_conversion(100) << "\n";
 }
