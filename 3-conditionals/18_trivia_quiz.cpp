@@ -33,12 +33,14 @@ int main() {
   std::cout << "3) 206\n";
   std::cout << "4) 10\n";
 
-  std::cin >> answer1;
+  std::cin >> answer2;
 
-  if (answer1 == 3) {
+  if (answer2 == 3) {
     std::cout << "You got it correct!\n";
   } 
   else {
     std::cout << "I'm sorry...\n";
   }
+
+  std::cout << "You completed the quize!\n";
 }
