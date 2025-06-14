@@ -13,9 +13,11 @@ class Restaurant {
 };
 
 int main() {
-  // ❌ This doesn't work just yet! We'll learn why in the next exercise.
-  
   Restaurant peter_luger;
+  Restaurant katz;
+  Restaurant grand_central;
+  
+  // ❌ This doesn't work just yet! We'll learn why in the next exercise.
 
   peter_luger.name = "Peter Luger Steak House";
   peter_luger.category = "American";
@@ -23,15 +25,11 @@ int main() {
   peter_luger.price = "$$$$";
   peter_luger.delivery = false;
 
-  Restaurant katz;
-
   katz.name = "Katz's Delicatessen";
   katz.category = "Deli";
   katz.rating = 4.5;
   katz.price = "$$";
   katz.delivery = false;
-
-  Restaurant grand_central;
 
   grand_central.name = "Grand Central Oyster Bar";
   grand_central.category = "Seafood";
