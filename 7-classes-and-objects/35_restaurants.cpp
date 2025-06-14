@@ -21,6 +21,22 @@ int main() {
   peter_luger.price = "$$$$";
   peter_luger.delivery = false;
 
+  Restaurant katz;
+
+  katz.name = "Katz's Delicatessen";
+  katz.category = "Deli";
+  katz.rating = 4.5;
+  katz.price = "$$";
+  katz.delivery = false;
+
+  Restaurant grand_central;
+
+  grand_central.name = "Grand Central Oyster Bar";
+  grand_central.category = "Seafood";
+  grand_central.rating = 4.2;
+  grand_central.price = "$$$";
+  grand_central.delivery = false;
+
   // ❌ This doesn't work just yet! 
   std::cout << peter_luger.name << "\n";
   std::cout << peter_luger.category << "\n";
