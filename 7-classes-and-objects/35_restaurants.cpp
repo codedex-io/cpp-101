@@ -13,6 +13,8 @@ class Restaurant {
 };
 
 int main() {
+  // ❌ This doesn't work just yet! We'll learn why in the next exercise.
+  
   Restaurant peter_luger;
 
   peter_luger.name = "Peter Luger Steak House";
@@ -37,7 +39,6 @@ int main() {
   grand_central.price = "$$$";
   grand_central.delivery = false;
 
-  // ❌ This doesn't work just yet! 
   std::cout << peter_luger.name << "\n";
   std::cout << peter_luger.category << "\n";
   std::cout << peter_luger.rating << "\n";
