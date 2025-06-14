@@ -1,4 +1,4 @@
-// Restaurants 🍽️
+// Peter Luger Steak House 🥩
 // Codédex
 
 #include <iostream>
@@ -21,6 +21,7 @@ int main() {
   peter_luger.price = "$$$$";
   peter_luger.delivery = false;
 
+  // ❌ This doesn't work just yet! 
   std::cout << peter_luger.name << "\n";
   std::cout << peter_luger.category << "\n";
   std::cout << peter_luger.rating << "\n";
