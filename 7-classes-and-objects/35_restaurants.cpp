@@ -18,7 +18,6 @@ int main() {
   Restaurant grand_central;
   
   // ❌ This doesn't work just yet! We'll learn why in the next exercise.
-
   peter_luger.name = "Peter Luger Steak House";
   peter_luger.category = "American";
   peter_luger.rating = 4.4;
