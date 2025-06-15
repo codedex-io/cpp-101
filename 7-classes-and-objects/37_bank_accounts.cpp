@@ -27,7 +27,6 @@ public:
 };
 
 int main() {
-  // More code here
   BankAccount checking1;
 
   checking1.name = "Sonny Li";
