@@ -13,7 +13,7 @@ public:
 int main() {
   WealthyFamily pauls;
 
-  pauls.name = "The Pauls";
+  pauls.name = "The Paul Brothers";
   pauls.networth = 250000000;
 
   std::cout << pauls.name << ":\n";
