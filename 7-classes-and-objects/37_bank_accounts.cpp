@@ -30,7 +30,7 @@ int main() {
   // More code here
   BankAccount checking1;
 
-  checking1.name = "Sonny LI";
+  checking1.name = "Sonny Li";
   checking1.account_id = 10001;
   checking1.account_type = "Checkings";
   checking1.balance = 100.56;
