@@ -42,5 +42,17 @@ int main() {
     std::cout << "I'm sorry...\n";
   }
 
-  std::cout << "You completed the quize!\n";
+  std::cout << "Q3) What food never spoils? 😷\n\n";
+  std::cout << "Type your answer: ";
+
+  std::cin >> answer3;
+
+  if (answer3 == "honey" || answer3 == "Honey") {
+    std::cout << "You got it correct!\n";
+  } 
+  else {
+    std::cout << "I'm sorry...\n";
+  }
+
+  std::cout << "You completed the quiz!\n";
 }
