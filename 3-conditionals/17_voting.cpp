@@ -8,7 +8,7 @@ int main() {
   bool citizen = true;
   bool registered = false;
 
-  if (age >= 18 and citizen == true and registered == true) {
+  if (age >= 18 && citizen == true && registered == true) {
     std::cout << "You can vote!\n";
   }
   else if (age < 18) {
