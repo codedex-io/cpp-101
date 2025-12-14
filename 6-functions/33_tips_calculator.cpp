@@ -17,5 +17,5 @@ int tips_calculator(float total, int number) {
 
 int main() {
   tips_menu();
-  std::cout << "$" << tips_calculator(46.59, 2) << "\n";
+  std::cout << "$" << tips_calculator(46.59, 0.2) << "\n"; // Percentage is now correct = 20%
 }
