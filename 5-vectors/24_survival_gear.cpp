@@ -13,7 +13,7 @@ int main() {
     "🪓 axe", 
     "🪚 saw",
     "🔪 knife",
-    "🥫 canned food" 
+    "🥫 canned food", 
     "🧼 soap", 
     "🧂 salt", 
     "🥘 pot"
